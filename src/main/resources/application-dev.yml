@@ -1,0 +1,16 @@
+spring:
+  application:
+    name: mockb
+logging:
+  level: 
+    gov: DEBUG
+    web: DEBUG
+app:
+  guid-message-file-path: C:\Users\willi\workspace\Deloitte\USPS\testUtility\ipmis-mockb\IpmisMockb\src\main\resources\guid-message-file.txt
+  client-id: "TANGO_CLIENT_ID"
+  api-key: "TANGO_API_KEY"
+  default-return-status: "ERROR"
+  default-return-message: "Unprocessable Input"
+  default-return-guid: ""
+  validation-schema-file-path: ""
+  

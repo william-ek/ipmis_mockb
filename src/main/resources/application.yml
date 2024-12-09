@@ -1,0 +1,10 @@
+spring:
+  profiles:
+    active: dev
+  application:
+    name: mockb
+server:
+  servlet:
+    context-path: /api/v1/batch/status
+
+
